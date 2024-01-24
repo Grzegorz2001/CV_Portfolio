@@ -1,0 +1,21 @@
+h1.red-header {
+    color: red;
+}
+
+p {
+    font-size: 30px;
+}
+
+li.first {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img.profile-photo {
+    width: 250px;
+    border-radius:25px;
+}
+
+tr.lang-table-header {
+    background-color: grey;
+}
